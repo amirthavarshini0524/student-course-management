@@ -19,7 +19,7 @@ This project demonstrates **One-to-Many** and **Many-to-Many (via Enrollment ent
 
 ## 🛠️ Tech Stack
 - **Java 17**
-- **Hibernate 6.x**
+- **Hibernate 7.x**
 - **Jakarta Persistence (JPA)**
 - **PostgreSQL / MySQL** (any relational DB)
 - **Maven**
